@@ -13,7 +13,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "whatsapp-web.js": "^1.25.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
