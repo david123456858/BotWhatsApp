@@ -1,0 +1,1 @@
+// mandarte el Qr e inicializar el bot
